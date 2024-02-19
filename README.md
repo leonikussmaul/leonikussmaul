@@ -1,6 +1,8 @@
 ### Hi there 👋
 
+<p align="center">
 My Tech Stack 🔭
+</p>
 
 
   
