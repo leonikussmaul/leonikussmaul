@@ -12,9 +12,9 @@ My Tech Stack 🔭
   </a>
 </p>
 
-<p align="center">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonikussmaul&layout=compact)
-</p>
+
 
 <!--
 **leonikussmaul/leonikussmaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
