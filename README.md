@@ -10,12 +10,10 @@ My Tech Stack 🔭
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,vscode,react,figma&perline=3" />
   </a>
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonikussmaul&hide_progress=true)
 </p>
 
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonikussmaul&hide_progress=true)
 ![Leoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonikussmaul&show_icons=true&theme=radical)
 
 
