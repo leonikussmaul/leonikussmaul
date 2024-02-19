@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,ui5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma)](https://skillicons.dev)
 <!--
 **leonikussmaul/leonikussmaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
