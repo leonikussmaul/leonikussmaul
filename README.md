@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<title text="My Tech Stack 🔭" />
+<title> My Tech Stack 🔭" </title>
 
 
   
