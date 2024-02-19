@@ -2,13 +2,15 @@
 
 <p align="center">
 My Tech Stack 🔭
-</p>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonikussmaul&layout=compact)
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonikussmaul&layout=compact)
 
    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,vscode,react,figma&perline=3" />
   </a>
+
+</p>
+
 
 
   
