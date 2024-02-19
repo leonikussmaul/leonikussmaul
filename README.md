@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-<div align="center"> 
+
 <title text="My Tech Stack 🔭" />
 
-</div>
+
+  
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,vscode,react,figma&perline=3" />
