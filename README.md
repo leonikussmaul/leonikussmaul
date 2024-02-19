@@ -12,8 +12,7 @@ My Tech Stack 🔭
   </a>
 </p>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonikussmaul&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonikussmaul&layout=compact)
 ![Leoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonikussmaul&show_icons=true&theme=radical)
 
 
