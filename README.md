@@ -1,25 +1,33 @@
 ### Hi there 👋
 
-<p>
-My Tech Stack 🔭
-</p>
+<table>
+  <tr><th colspan="2"><h3>My Tech Stack 🔭</h3></th></tr>
+  <tr><td colspan="2" align="center">
 
-
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,vscode,react,figma&perline=3" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,vscode,react,figma" />
   </a>
-
 </p>
+  </td></tr>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonikussmaul&layout=compact)
+  <tr>
+    <td><code>🧶 SAPUI5</code> <code>🧢 CAP </code> <code>✨ Fiori</code> <code>🚀 Business Technology Platform</code> <code>💻 Business Application Studio</code> </td>
+  </tr>
 
+   <tr><td colspan="2"><p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonikussmaul&layout=compact" />
+  </a>
+</p></td></tr>
 
-
+</table>
 
 
 
 <!--
 **leonikussmaul/leonikussmaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Leoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonikussmaul&show_icons=true&theme=radical)
 
 Here are some ideas to get you started:
 
