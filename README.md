@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-<title> My Tech Stack 🔭" </title>
+My Tech Stack 🔭
 
 
   
